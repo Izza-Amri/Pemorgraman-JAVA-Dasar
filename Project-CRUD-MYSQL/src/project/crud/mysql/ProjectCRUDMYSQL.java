@@ -35,7 +35,6 @@ public class ProjectCRUDMYSQL {
         }
     }
     static void menu(){
-        System.out.println("ini cuma tes aja sih");
         System.out.println("Menu Utama");
         System.out.println("1. List Data Barang");
         System.out.println("2. Tambah Data Barang");
@@ -126,6 +125,5 @@ public class ProjectCRUDMYSQL {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }
-    
+    }  
 }
