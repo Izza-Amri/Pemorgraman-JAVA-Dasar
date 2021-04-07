@@ -1,5 +1,5 @@
 package kalkulator.berbasis.gui;
-// Izza Amri dengan NIM 191011401558
+
 public class formKalkulator extends javax.swing.JFrame {
     public formKalkulator() {
         initComponents();
