@@ -133,10 +133,6 @@ public class formKalkulator extends javax.swing.JFrame {
             textHasil.setText(Integer.toString(total));
         }
     }//GEN-LAST:event_HitungActionPerformed
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String args[]) {
         /* Set the Nimbus look and feel */
         //<editor-fold defaultstate="collapsed" desc=" Look and feel setting code (optional) ">
