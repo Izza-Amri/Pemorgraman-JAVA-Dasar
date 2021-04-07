@@ -2,7 +2,7 @@ package crud.mysql.datasupplier;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.sql.*;
-// Izza Amri dengan NIM 191011401558
+
 public class CRUDMYSQLDataSupplier {
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://localhost/dbsupplier";
